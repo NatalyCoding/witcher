@@ -1,0 +1,19 @@
+body {
+    background: #141218;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.header-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-list{
+    margin-right: auto;
+    margin-left: 67px;
+}
